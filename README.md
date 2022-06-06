@@ -1,4 +1,4 @@
-# java-snake-game
+# java-quiz-game
 A simple Java Application - the Quiz Game!
 
 
